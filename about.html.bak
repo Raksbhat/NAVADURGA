@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <title>About |NAVADURGA TEMPLE</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Bootsrap -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+        <!-- Font awesome -->
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+
+        <!-- Template main Css -->
+        <link rel="stylesheet" href="assets/css/style.css">
+        
+        <!-- Modernizr -->
+        <script src="assets/js/modernizr-2.6.2.min.js"></script>
+
+
+    </head>
+    <body>
+    <!-- NAVBAR
+    ================================================== -->
+
+    <header class="main-header">
+        
+    
+        <nav class="navbar navbar-static-top">
+
+            <div class="navbar-top">
+
+              <div class="container">
+                  <div class="row">
+
+                    <div class="col-sm-6 col-xs-12">
+
+                        <ul class="list-unstyled list-inline header-contact">
+                            <li> <i class="fa fa-phone"></i> <a href="tel:">+91 9739413771 </a> </li>
+                             <li> <i class="fa fa-envelope"></i> <a href="mailto:rakshitb44@gmail.com">contact@NAVADURGA TEMPLE</a> </li>
+                       </ul> <!-- /.header-contact  -->
+                      
+                    </div>
+
+                    
+
+
+                  </div>
+              </div>
+
+            </div>
+
+            <div class="navbar-main">
+              
+              <div class="container">
+
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+
+                  </button>
+                  
+                  
+                  
+                </div>
+
+                <div id="navbar" class="navbar-collapse collapse pull-right">
+
+                  <ul class="nav navbar-nav">
+
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="gallery.html">GALLERY</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+
+                  </ul>
+
+                </div> <!-- /#navbar -->
+
+              </div> <!-- /.container -->
+              
+            </div> <!-- /.navbar-main -->
+
+
+        </nav> 
+
+    </header> <!-- /. main-header -->
+
+
+	
+
+	<div class="main-container">
+
+		<div class="container">
+
+			<div class="row fadeIn animated">
+
+				<div class="col-md-6">
+
+					<img src="E:\navadurga _web\sadaka\DOCUMENTATION\assets\img\amma4.jpeg" alt="" class="img-responsive" >
+
+				</div>
+
+				<div class="col-md-6">
+
+					<h2 class="title-style-2">ABOUT  SHREE NAVADURGA TEMPLE <span class="title-under"></span></h2>
+
+					<h4><p>
+						MavinKurva is an island surrounded by Sarawati  River. The village Mavinkurva can be reached from Honnvar by crossing the river Sharawati by boat(only 1km) or by road(25km). Honnavar is about 30 Km from Murdeshwar.
+
+Goddess Navadurga temple at  Mavinkurva is one of the 30-odd Navadurga temples located in Maharashtra, Goa, and Karnataka.
+
+Navrathri is celebrated in a grand manner and Goddess Navadurga is decorated differently on all nine days.
+
+During the Navrathri festival, the event <b>“Vade-punav”</b> is conducted. A team of devotees participates in this event. After taking a holy bath, the team of devotees takes Prasad from the Goddess and starts the event.
+
+On a huge earthen oven, an iron <b>“Kadai” </b>containing cooking oil is heated up to its boiling limit. Then, a team of volunteers pours the dough for making vada in the boiling oil. </p>
+
+<p>The team of devotees, one after the other, pray to the Goddess, put their hands in the boiling oil and pick out vadas! </p>
+<p>Address Details:</p>
+<p>Street Name: Mavinkurva,Bhattarkeri</p>
+<p>Municipality: Honavar</p>
+<p>Country Secondary Subdivision: Uttara Kannada</p>
+<p>Country Subdivision: Karnataka</p>
+<p>Country Code: IN</p>
+<p>Country: India</p>
+<p>Country Code ISO3: IND</p></h4>
+<p>Freeform Address: Mavinkurva,Bhattarkeri, Honnavar 581335, Karnataka</p>
+<h3>FOR MORE INFORMATION WATCH VIDEO IN GALLERY </H3>
+
+					
+					
+				</div>
+
+			</div> <!-- /.row -->
+
+			
+
+	 
+
+         
+        
+    </footer>
+
+
+
+
+       
+        
+        <!-- jQuery -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="assets/js/jquery-1.11.1.min.js"><\/script>')</script>
+
+        <!-- Bootsrap javascript file -->
+        <script src="assets/js/bootstrap.min.js"></script>
+
+
+        <!-- Template main javascript -->
+        <script src="assets/js/main.js"></script>
+
+        
+    </body>
+</html>

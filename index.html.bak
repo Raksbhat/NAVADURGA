@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <title>NAVADURGA TEMPLE MAVINKURVE</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Bootsrap -->
+        <link rel="stylesheet" href="bootstrap.min.css">
+
+        <!-- Font awesome -->
+        <link rel="stylesheet" href="font-awesome.min.css">
+
+        <!-- Owl carousel -->
+        <link rel="stylesheet" href="owl.carousel.css">
+
+        <!-- Template main Css -->
+        <link rel="stylesheet" href="style.css">
+        
+        <!-- Modernizr -->
+        <script src="modernizr-2.6.2.min.js"></script>
+
+
+    </head>
+
+    <body>
+
+
+    <header class="main-header">
+        
+    
+        <nav class="navbar navbar-static-top">
+
+            <div class="navbar-top">
+
+              <div class="container">
+                  <div class="row">
+
+                    <div class="col-sm-6 col-xs-12">
+
+                        <ul class="list-unstyled list-inline header-contact">
+                            <li> <i class="fa fa-phone"></i> <a href="tel:">+919739413771 </a> </li>
+                             <li> <i class="fa fa-envelope"></i> <a href="mailto:rakshitb44@gmail.com">contact@NAVADURGA TEMPLE</a> </li>
+                       </ul> <!-- /.header-contact  -->
+                      
+                    </div>
+					<!--
+
+                    <div class="col-sm-6 col-xs-12 text-right">
+
+                        <ul class="list-unstyled list-inline header-social">
+
+                            <li> <a href="#"> <i class="fa fa-facebook"></i> </a> </li>
+                            <li> <a href="#"> <i class="fa fa-twitter"></i>  </a> </li>
+                            <li> <a href="#"> <i class="fa fa-google"></i>  </a> </li>
+                            <li> <a href="#"> <i class="fa fa-youtube"></i>  </a> </li>
+                            <li> <a href="#"> <i class="fa fa fa-pinterest-p"></i>  </a> </li>
+                       </ul> <!-- /.header-social  -->
+                     
+                    </div>  
+					
+
+
+                  </div>
+              </div>
+
+            </div>
+
+            <div class="navbar-main">
+              
+              <div class="container">
+
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+
+                  </button>
+                  
+                  
+                  
+                </div>
+
+                <div id="navbar" class="navbar-collapse collapse pull-right">
+
+                  <ul class="nav navbar-nav">
+
+                    <li><a class="is-active" href="index.html">HOME</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                    
+                    <li><a href="gallery.html">GALLERY</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+
+                  </ul>
+
+                </div> <!-- /#navbar -->
+
+              </div> <!-- /.container -->
+              
+            </div> <!-- /.navbar-main -->
+
+
+        </nav> 
+
+    </header> <!-- /. main-header -->
+
+
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="homeCarousel" class="carousel slide carousel-home" data-ride="carousel">
+
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#homeCarousel" data-slide-to="1"></li>
+            <li data-target="#homeCarousel" data-slide-to="2"></li>
+          </ol>
+
+          <div class="carousel-inner" role="listbox">
+
+            <div class="item active">
+
+              <img src="DSC_0073~2.jpg" alt="">
+
+              <div class="container">
+
+                <div class="carousel-caption">
+
+                  
+                  
+
+                </div> <!-- /.carousel-caption -->
+
+              </div>
+
+            </div> <!-- /.item -->
+
+
+            <div class="item ">
+
+              <img src="amma.jpeg" alt="">
+
+              <div class="container">
+
+                <div class="carousel-caption">
+
+                 
+                  
+
+                </div> <!-- /.carousel-caption -->
+
+              </div>
+
+            </div> <!-- /.item -->
+
+
+
+
+            <div class="item ">
+
+              <img src="amma1.jpeg" alt="">
+
+              <div class="container">
+
+                <div class="carousel-caption">
+
+                  
+
+                </div> <!-- /.carousel-caption -->
+
+              </div>
+
+            </div> <!-- /.item -->
+
+          </div>
+
+          <a class="left carousel-control" href="#homeCarousel" role="button" data-slide="prev">
+            <span class="fa fa-angle-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+
+          <a class="right carousel-control" href="#homeCarousel" role="button" data-slide="next">
+            <span class="fa fa-angle-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+
+    </div><!-- /.carousel -->
+
+    
+
+    
+
+
+    <footer class="main-footer">
+
+        <div class="footer-top">
+            
+        </div>
+
+
+        <div class="footer-main">
+            <div class="container">
+                
+                <div class="row">
+                    <div class="col-md-4">
+
+                        <div class="footer-col">
+
+                            <h4 class="footer-title">About  <span class="title-under"></span></h4>
+
+                            <div class="footer-content">
+
+                                <p>
+                                    <strong>NAVADURGA TEMPLE MAVINKURVA:</strong> Mavinkurva is an island surrounded by Sarawati  River. The village Mavinkurva can be reached from Honnvar by crossing the river Sharawati by boat(only 1km) or by road(25km). Honnavar is about 30 Km from Murdeshwar.
+
+Goddess Navadurga temple at  Mavinkurva is one of the 30-odd Navadurga temples located in Maharashtra, Goa, and Karnataka.
+
+Navrathri is celebrated in a grand manner and Goddess Navadurga is decorated differently on all nine days.
+
+During the Navrathri festival, the event “Vade-punav” is conducted. A team of devotees participates in this event. After taking a holy bath, the team of devotees takes Prasad from the Goddess and starts the event.
+
+On a huge earthen oven, an iron “Kadai” containing cooking oil is heated up to its boiling limit. Then, a team of volunteers pours the dough for making vada in the boiling oil. 
+
+The team of devotees, one after the other, pray to the Goddess, put their hands in the boiling oil and pick out vadas! 
+                                </p> 
+
+                                
+
+                            </div>
+                            
+                        </div>
+
+                    </div>
+
+                    
+
+
+                    
+
+        <div class="footer-bottom">
+
+            <div class="container text-right">
+			<center>Developed by Rakshit Bhat @ copyrights 2022</center>
+              
+            </div>
+        </div>
+        
+    </footer> <!-- main-footer -->
+
+
+
+
+    
+
+
+
+
+
+    <!--  Scripts
+    ================================================== -->
+
+    <!-- jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="jquery-1.11.1.min.js"><\/script>')</script>
+
+    <!-- Bootsrap javascript file -->
+    <script src="bootstrap.min.js"></script>
+    
+    <!-- owl carouseljavascript file -->
+    <script src="owl.carousel.min.js"></script>
+
+    <!-- Template main javascript -->
+    <script src="main.js"></script>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    
+
+    </body>
+</html>
